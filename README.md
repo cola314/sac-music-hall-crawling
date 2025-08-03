@@ -6,3 +6,5 @@
 ## 활용 방법
 - 스크립트를 통해 특정 월의 전체 공연 정보 및 상세 정보를 csv로 추출
 - 추출된 csv파일의 확장자를 txt로 변경하여 notebooklm에 업로드 하면 채팅으로 원하는 공연 정보를 검색할 수 있음
+
+<img width="1830" height="1760" alt="image" src="https://github.com/user-attachments/assets/e8900c28-e622-4d43-9d5e-aea90a5e923b" />
